@@ -1,0 +1,8 @@
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\bin\Debug\ExcelToJsonApp.exe
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\bin\Debug\ExcelToJsonApp.pdb
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\obj\x86\Debug\ExcelToJsonApp.exe
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\obj\x86\Debug\ExcelToJsonApp.pdb
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\bin\Debug\ExcelToJsonApp.exe.config
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\bin\Debug\Arch.Framework.Utility.dll
+d:\works\Visual Studio 2010\Projects\ExcelToJsonApp\ExcelToJsonApp\bin\Debug\ChnCharInfo.dll
